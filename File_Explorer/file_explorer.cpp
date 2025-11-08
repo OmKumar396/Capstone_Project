@@ -220,7 +220,7 @@ int main() {
                 cout << "Exiting File Explorer..." << endl;
                 return 0;
             default:
-                cout << "Invalid choice! Enter a number between 1–9." << endl;
+                cout << "Invalid choice! Enter a number between 1â€“9." << endl;
         }
     }
 }
